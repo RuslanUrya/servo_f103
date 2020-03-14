@@ -1,0 +1,26 @@
+*~
+*.cfg
+.cproject
+.project
+.mxproject
+.settings/
+lab4 Debug.cfg
+LinkerScript.ld
+STM32F103C8Tx_FLASH.ld
+Uryadinsky_stm32f103c8t6.xml
+servo_f103.xml
+Drivers/
+HAL_Driver/
+CMSIS/
+Inc/gpio.h
+Inc/stm32f1xx_hal_conf.h
+Inc/stm32f1xx_it.h
+Inc/tim.h
+src/syscalls.c
+src/system_stm32f1xx.c
+src/gpio.c
+src/stm32f1xx_hal_msp.c
+src/stm32f1xx_it.c
+src/tim.c
+startup/
+Debug/
